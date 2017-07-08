@@ -1,0 +1,32 @@
+P{
+    color:blue;
+}
+.center_with_border {
+    border:3px red;
+ 
+    margin: auto
+    }
+    
+    /* my website is a work in process. */
+    
+        
+nav ul{
+list-style-type: none;
+ padding:0;
+ margin:0;       
+ width: 200px;
+ background-color: #91CB3E;
+    }
+    nav li a {
+        display: block;
+        padding: 8px 16px;
+        color:#19381F;
+        text-decoration: none;
+    }
+    nav li a:hover{
+        color: #EEE82C;
+    }
+    property: value
+    property: value
+    property: value
+      
